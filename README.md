@@ -1,3 +1,9 @@
 # Sucesion-de-Fibonnacci
 
-![](file:///C:/Users/jorge/OneDrive/Im%C3%A1genes/1.png "Codigo")
+
+## Serie de fibonacci con recursividad.
+
+#### En el siguiente código, escrito en lenguaje c++; se podrá calcular la sucesión de fibonnacci con recursividad.
+
+##### Se pide el numero de elementos que tendrá la serie de Fibonacci.
+
