@@ -1,9 +1,9 @@
 # Sucesion-de-Fibonnacci
 
 
-## Serie de fibonacci con recursividad.
+## Serie de Fibonacci con recursividad.
 
-#### En el siguiente código, escrito en lenguaje c++; se podrá calcular la sucesión de fibonnacci con recursividad.
+#### En el siguiente código, escrito en lenguaje c++; se podrá calcular la sucesión de Fibonnacci con recursividad.
 
 ##### Se pide el numero de elementos que tendrá la serie de Fibonacci.
 
@@ -18,7 +18,7 @@ Función recursiva, el cual se utiliza para calcular cada uno de los elementos d
 ![2](https://user-images.githubusercontent.com/71052252/94635783-10cc2c00-0299-11eb-98ec-90b797040a09.png)
 
 
-Ejecución del programa con los 15 primeros elementos de la serie de fibonacci
+Ejecución del programa con los 15 primeros elementos de la serie de Fibonacci
 
 ![3](https://user-images.githubusercontent.com/71052252/94636048-aa93d900-0299-11eb-9c01-b2020f0f52d5.png)
 
