@@ -20,6 +20,9 @@ Función recursiva, el cual se utiliza para calcular cada uno de los elementos d
 
 Ejecución del programa con los 15 primeros elementos de la serie de fibonacci
 
+![3](https://user-images.githubusercontent.com/71052252/94636048-aa93d900-0299-11eb-9c01-b2020f0f52d5.png)
+
+
 
 
 
